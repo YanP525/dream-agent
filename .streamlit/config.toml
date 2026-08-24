@@ -1,0 +1,9 @@
+[client]
+# 隐藏工具栏中的「清空缓存」等开发者选项，避免误触弹出确认框
+toolbarMode = "viewer"
+
+[runner]
+fastReruns = true
+
+[server]
+headless = true
